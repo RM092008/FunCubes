@@ -1,0 +1,2 @@
+# FunCubes
+server minecraft
